@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: rrodriguezcesur/robertoapachehtml:latest , rrodriguezcesur/robertoapachehtml:1.1
+          tags: rrodriguezcesur/robertoapachehtml:latest
