@@ -2,7 +2,8 @@ name: ci
 
 on:
   push:
-    types: [closed]
+    branches:
+      - main 
 
 jobs:
   docker:
