@@ -13,3 +13,5 @@ Finalmente, podremos visualizarla en la siguiente url:
 http://localhost/
 
 ![image](https://user-images.githubusercontent.com/104421218/206673910-e0fb2397-faf2-45af-9323-1bae9bbd9fdc.png)
+
+Nuestro actions realiza un push cuando hacemos un commit.
